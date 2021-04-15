@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\bin\Debug\WpfApp Step Ders 15 Aprel.exe.config
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\bin\Debug\WpfApp Step Ders 15 Aprel.exe
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\bin\Debug\WpfApp Step Ders 15 Aprel.pdb
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp Step Ders 15 Aprel.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp Step Ders 15 Aprel_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp Step Ders 15 Aprel_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp Step Ders 15 Aprel.g.resources
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp_Step_Ders_15_Aprel.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp Step Ders 15 Aprel.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp Step Ders 15 Aprel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp Step Ders 15 Aprel.exe
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\WpfApp Step Ders 15 Aprel.pdb
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\Dictionary.baml
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\Dictionary2.baml
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\App.baml
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\Info.g.cs
+C:\Users\Admin\source\repos\WpfApp Step Ders 15 Aprel\WpfApp Step Ders 15 Aprel\obj\Debug\Info.baml
